@@ -17,7 +17,7 @@
   </component>
   <component name="CPPToolchains">
     <option name="detectedVersion" value="4" />
-    <option name="minGWHomePath" value="C:\msys64" />
+    <option name="minGWHomePath" value="C:\msys64\mingw64" />
     <option name="winEnvironment" value="MINGW" />
   </component>
   <component name="CodeStyleSettingsManager">
