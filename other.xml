@@ -55,4 +55,9 @@
     </option>
     <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default copy" />
   </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
 </application>
